@@ -1,6 +1,6 @@
 .odd {
     background-color: rgb(240, 160, 160) ;
-    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
 #number2 {
@@ -12,4 +12,8 @@
     background-color: rgb(142, 255, 142);
     font-size: 24px;
     font-weight: bold;
+}
+
+.larger-odd {
+    font-size: 24px;
 }
