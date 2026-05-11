@@ -6,6 +6,32 @@ img {
   width: 100px;
   height: 100px;
 }
+.main {
+  align-items: center;
+  gap: 32px;
+}
+
+.plants {
+  flex-basis: 200px;
+  align-items: center;
+}
+
+.text {
+  text-align:center;
+  margin-top: 8px;
+}
+
+.layout {
+  gap: 52px;
+}
+
+.container {
+  display: flex;
+}
+
+.column {
+  flex-direction: column;
+}
 
 .title {
   font-size: 36px;
